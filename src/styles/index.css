@@ -1,0 +1,10 @@
+:root {
+  --color-light: lightgray;
+  --color-dark: darkgray;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
